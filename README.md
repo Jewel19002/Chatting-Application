@@ -53,9 +53,11 @@ java -cp build/classes chatting.application.Server
 ### 💻 Run Client
 
 java -cp build/classes chatting.application.Client
-### ⚠️ Make sure to run the Server first before starting the Client.
+#### ⚠️ Make sure to run the Server first before starting the Client.
 
-## 👨‍💻 Author - Sk Mustak Ahammed
+
+### 👨‍💻 Author - Sk Mustak Ahammed
+
 
 ## 📜 License
 
