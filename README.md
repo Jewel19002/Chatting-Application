@@ -46,18 +46,18 @@ CHATTING APPLICATION/
 javac -d build/classes src/chatting/application/*.java
 
 
-# 🚀 Run Server
+### 🚀 Run Server
 
 java -cp build/classes chatting.application.Server
 
-# 💻 Run Client
+### 💻 Run Client
 
 java -cp build/classes chatting.application.Client
-# ⚠️ Make sure to run the Server first before starting the Client.
+### ⚠️ Make sure to run the Server first before starting the Client.
 
-# 👨‍💻 Author - Sk Mustak Ahammed
+## 👨‍💻 Author - Sk Mustak Ahammed
 
-# 📜 License
+## 📜 License
 
 ### This project is licensed under the MIT License – see the LICENSE file for details.
 MIT License
